@@ -1,6 +1,3 @@
-# ScrumAssignment
-Assignment for internship
-
 Admin Panel
 
  - login
